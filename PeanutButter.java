@@ -1,3 +1,5 @@
+// made by Harold kemta 
+
 public class PeanutButter {
     private String name = "none";
     private int calories = 100;
